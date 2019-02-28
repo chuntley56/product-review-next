@@ -1,0 +1,64 @@
+{
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!static/css/style.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {
+      "multi node_modules/next/dist/client/next": 0,
+      "css node_modules/css-loader/index.js??ref--5-1!static/css/style.css 0": 1,
+      "css node_modules/css-loader/index.js??ref--5-1!static/css/style.css 1": 2
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2
+    }
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "static/rfwbrikmqB2tny~ILkOym/pages/_app.js": 2,
+      "static/rfwbrikmqB2tny~ILkOym/pages/_error.js": 3,
+      "static/rfwbrikmqB2tny~ILkOym/pages/index.js": 4,
+      "static/runtime/main.js": 5,
+      "styles": 6,
+      "static/L8gmPMY9JczW6Mjim8sLZ/pages/_app.js": 7,
+      "static/L8gmPMY9JczW6Mjim8sLZ/pages/_error.js": 8,
+      "static/L8gmPMY9JczW6Mjim8sLZ/pages/index.js": 9,
+      "static/hKUUt7tPXNG9_VXAblRVE/pages/_app.js": 2,
+      "static/hKUUt7tPXNG9_VXAblRVE/pages/_error.js": 3,
+      "static/hKUUt7tPXNG9_VXAblRVE/pages/index.js": 4,
+      "static/8smlE94zMFKceWuoNZTsu/pages/_app.js": 7,
+      "static/8smlE94zMFKceWuoNZTsu/pages/_error.js": 8,
+      "static/8smlE94zMFKceWuoNZTsu/pages/index.js": 9,
+      "static/3WOlh~3y48IYV3ZJe3Ekz/pages/_app.js": 2,
+      "static/3WOlh~3y48IYV3ZJe3Ekz/pages/_error.js": 3,
+      "static/3WOlh~3y48IYV3ZJe3Ekz/pages/index.js": 4
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  }
+}

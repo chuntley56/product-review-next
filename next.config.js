@@ -3,5 +3,11 @@ const withFonts = require('next-fonts');
 
 module.exports =
 withCSS(withFonts({
-  enableSvg: true
+  enableSvg: true,
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/product-review-next' : '',
+  exportPathMap: function () {
+    return {
+      '/': { page: '/' }
+    }
+  }
 }))
